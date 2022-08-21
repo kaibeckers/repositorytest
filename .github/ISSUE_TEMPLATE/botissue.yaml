@@ -1,0 +1,4 @@
+name: Bot Issue Report
+description: File an issue report for issues related to the bot.
+title: "[Bot]: "
+labels: ["bot", "bug"]
